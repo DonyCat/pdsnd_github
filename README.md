@@ -4,13 +4,17 @@
 Include the date you created this project and README file.
 
 ### Project Title
-Replace the Project Title
+BikeShare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+Compares BikeShare Data from Chicago, New York and Washington and provides data to compare common attributes.
 
 ### Files used
-Include the files used
+README.md.swp
+bikeshare_dony.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
